@@ -11,7 +11,3 @@ Then use it:
 ```sh
 mrrobot
 ```
-
-```
-
-```
